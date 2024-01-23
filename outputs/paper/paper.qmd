@@ -52,7 +52,7 @@ We then create a summary statistic on the basis of monthly groups, using 'summar
 
 The data is from OpenDataToronto[@opendatatoronto] by city of Toronto. Only one dataset is used. There is 
 
-Author run data in R[@citeR] by using package 
+Author analysis data in R[@citeR] by using package 'tidyver'[@tidyverse] and 'knitr'[@knitr] to generate the table.
 
 ```{r}
 #| label: tbl-dinesafe
