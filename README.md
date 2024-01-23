@@ -5,6 +5,8 @@ input/data contains the data from Open Data Toronto.
 
 outputs/data contains the cleaned dataset.
 
-outputs/paper contains final paper and reference bibliography file.
+outputs/paper contains the final paper and reference bibliography file.
 
-scripts contains the R scripts used to simulate, download and clean data.
+scripts contain the R scripts used to simulate, download and clean data.
+
+No ChatGPT is used to generate code, but Grammarly is used to change the grammar of paper.
